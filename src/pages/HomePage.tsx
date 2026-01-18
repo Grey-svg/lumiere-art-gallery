@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'; // assuming react-router for navigation
 
 
 import Navbar from '../component/Navbar';
-import Hero from '../page-sections/Hero';
+// import Hero from '../page-sections/Hero';
 import Gallery from '../page-sections/Gallery';
 import ContactForm from '../page-sections/ContactForm';
 import Footer from '../page-sections/Footer';
