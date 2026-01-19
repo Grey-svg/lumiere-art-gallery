@@ -1,14 +1,14 @@
 import CategorySection from "../page-sections/CategorySection";
 import ContactForm from "../page-sections/ContactForm";
-import ArtCollectionMasonry from "./ArtCollection";
-import ArtCollection from "./ArtCollection";
-import CategoriesSection from "./Categories";
-import Collection, { defaultArtworks } from '../component/Collection';
+// import ArtCollectionMasonry from "./ArtCollection";
+// import ArtCollection from "./ArtCollection";
+// import CategoriesSection from "./Categories";
+// import Collection, { defaultArtworks } from '../component/Collection';
 import Footer from "../page-sections/Footer";
 import HeroSection from "./HeroSection";
-import Mycollection from "./mycollection";
+// import Mycollection from "./mycollection";
 import Navbar from "./Navbar";
-import WelcomeSection from "./Welcome";
+// import WelcomeSection from "./Welcome";
 
 const LumiereArts = () => {
   return (

@@ -1,5 +1,5 @@
 // src/components/ArtCollection.tsx
-import React from "react";
+
 
 const artPieces = [
   {

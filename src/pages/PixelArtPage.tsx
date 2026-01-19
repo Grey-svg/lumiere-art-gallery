@@ -19,6 +19,7 @@ import art9 from '../assets/image/art9.jpg';
 
 
 
+
 const pixelImages = [
   art1,
   art2,
@@ -31,6 +32,7 @@ const pixelImages = [
   art9,
   
 ];
+
 const PixelArtPage: React.FC = () => {
   return (
     <div>

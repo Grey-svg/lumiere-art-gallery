@@ -2,7 +2,7 @@
 import { Routes, Route } from 'react-router-dom'
 import LumiereArts from "./component/Lumiere";
 import AncientArtPage from "./pages/AncientArtPage";
-import HomePage from "./pages/HomePage";
+// import HomePage from "./pages/HomePage";
 import ModernArtPage from "./pages/ModernArtPage";
 import PixelArtPage from "./pages/PixelArtPage";
 
