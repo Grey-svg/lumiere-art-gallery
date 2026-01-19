@@ -13,7 +13,7 @@ const CategorySection = () => {
           <CategoryCard
             title="Pixel Art"
             description="Digital images made from tiny colored squares, popular in games and illustrations"
-            imageUrl="https://images.unsplash.com/photo-1550744829-eb0a3e8b8c5f?w=800" // pixel-inspired portrait
+            imageUrl='https://images.unsplash.com/photo-1501854140801-50d01698950b' // pixel-inspired portrait
             linkTo="/pixel"
           />
           <CategoryCard
